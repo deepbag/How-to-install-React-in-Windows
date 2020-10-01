@@ -12,7 +12,6 @@ Once downloaded, we run the Node.js installer complete the installation.
 Install Create-React-App package to simplify the process of creating and installing React into your projects.
 type in the following command : npm install -g create-react-app
 
-As Kanye West said:
+## Note:
+> When using create-react-app ensure you are in the desired directory/folder location as this command will create the project folder in the current path.
 
-> We're living the future so
-> the present is our past.
