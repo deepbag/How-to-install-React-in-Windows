@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/react.jpg" alt="Node.js Download" width="300">
 </p>
-<p align="center"> ### Follo on Social Media 👋 </p>
+<p align="center"><strong>Follow on Social Media 👋</strong></p>
 <div align="center">
  <a href="https://twitter.com/erdeepbag"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
  <a href="https://www.linkedin.com/in/deep-bag-360764170/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
