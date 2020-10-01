@@ -45,7 +45,7 @@ To run our new project, we need to use the command prompt to change to the proje
 
 Next, the default browser will open and load the project:
 
-<img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/localhost.png" alt="Node.js Download" width="550" height="500">
+<img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/localhost.png" alt="Node.js Download"/>
 
 You now have your environment set for building out projects!
 
