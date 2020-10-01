@@ -1,5 +1,8 @@
 <p align="center">
-    <img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/react.jpg" alt="Node.js Download" width="300">
+  <img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/react.jpg" alt="Node.js Download" width="300">
+</p>
+<p align="center">
+ :tada:<a href="https://www.instagram.com/er.deepbag/">Instagram<a> :rocket:<a href="https://www.linkedin.com/in/deep-bag-360764170/">Lnkedin<a> :metal:<a href="https://www.facebook.com/deep.bagh.509">Facebook<a> :octocat:<a href="https://twitter.com/erdeepbag">Twitter<a>
 </p>
 
 
@@ -42,6 +45,5 @@ Next, the default browser will open and load the project:
 
 You now have your environment set for building out projects!
 
-## Follow on Social Media:
-
+## Thank You
 
