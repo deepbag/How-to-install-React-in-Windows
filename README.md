@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="https://github.com/deepbag/How-to-install-React-in-Windows">
+    <img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/reactpng.jpg" alt="React.js">
+  </a>
+</p>
+
+<div align="center">
+  <sub>Created by
+  <a href="https://www.instagram.com/er.deepbag/">Deep Bag</a>
+</div>
+
 # How-to-install-React-in-Windows
 In this tutorial, we'll introduce you to how you ca install react in window from scratch. We'll make use of the create-react-app CLI tool to quickly generate a React Project.
 
