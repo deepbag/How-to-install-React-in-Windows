@@ -15,3 +15,6 @@ type in the following command : npm install -g create-react-app
 ## Note:
 > When using create-react-app ensure you are in the desired directory/folder location as this command will create the project folder in the current path.
 
+## Command for creating project:
+> 1. mkdir <projectname> <br> 2. cd <projectname>
+  
