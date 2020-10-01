@@ -16,5 +16,22 @@ type in the following command : npm install -g create-react-app
 > When using create-react-app ensure you are in the desired directory/folder location as this command will create the project folder in the current path.
 
 ## Command for creating project:
-> 1. mkdir <projectname> <br> 2. cd <projectname>
-  
+> create-react-app your-project-name
+
+The entire process is automated and begins with creating a new React app folder for the project, then installs packages and dependencies. The default packages include react, react-dom, and react-scripts. The installation will take a few minutes.
+
+<img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/nodejs_commandprompt10.png" alt="Node.js Download" width="550" height="500">
+
+## Run a React Project Application:
+To run our new project, we need to use the command prompt to change to the project folder, then start it. The cd your-project-name command will take us to the your-project-name
+> cd reactproject2 
+## The npm start command will run the project application:
+> npm start
+
+<img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/nodejs_commandprompt11.png" alt="Node.js Download" width="550" height="500">
+
+Next, the default browser will open and load the project:
+
+<img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/localhost.png" alt="Node.js Download" width="550" height="500">
+
+You now have your environment set for building out projects!
