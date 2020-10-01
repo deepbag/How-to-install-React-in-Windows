@@ -3,4 +3,6 @@ In this tutorial, we'll introduce you to how you ca install react in window from
 
 # Step 1: Install Node.js
 The first step is to download the Node.js installer for Windows. Let’s use the latest Long Term Support (LTS) version for Windows and choose the 32-bit 64-bit version, using the Windows Installer icon.
-![Node.js](https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/nodejs1.png)
+
+<img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/nodejs1.png" alt="Node.js Download" width="500" height="600">
+![Node.js]()
